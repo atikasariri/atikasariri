@@ -35,7 +35,7 @@ Combining experience in **Sales, Marketing, and Business Development**, I levera
 
 ### Education 🎓
 
-- **Bachelor's Degree in [Jurusan Kamu]**, [Nama Universitas Kamu]
+- **Bachelor's Degree in [Economics]**, [Surabaya State University]
 
 ---
 
