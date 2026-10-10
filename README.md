@@ -28,7 +28,7 @@ Combining experience in **Sales, Marketing, and Business Development**, I levera
 - **Languages:** SQL, Python
 - **Data & Business Intelligence:** Power BI, Tableau, Google Looker Studio, Excel (Advanced)
 - **Frameworks & Analysis:** Market Research, Funnel Analysis, Customer Segmentation, Financial Modeling, ETL Process
-- **Tools:** Git, PostgreSQL,MySQL, Google BigQuery, CRM Systems (HubSpot/Salesforce)
+- **Tools:** Git, PostgreSQL, MySQL, SQLite, Google BigQuery, CRM Systems (HubSpot/Salesforce)
 - **Specialties:** Business Growth, Data-Driven Strategy, Sales Pipeline Optimization, Market Analytics
 
 ---
