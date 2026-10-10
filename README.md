@@ -17,18 +17,18 @@ Combining experience in **Sales, Marketing, and Business Development**, I levera
 
 ### Professional Highlights 🌟
 
-- **Business Analyst / Data Analyst** – [Nama Perusahaan / Freelance] *(2024 - Present)*
-- **Business Development Specialist** – [Nama Perusahaan] *(2023 - 2024)*
-- **Sales & Marketing Specialist** – [Nama Perusahaan] *(2021 - 2023)*
+- **Business Development Specialist** – [PT. Bina Auto Solusi] *(2026)*
+- **Sales Executive** – [Sinarmas Land / Freelance] *(2024)*
+- **Sales & Marketing Specialist** – [Suncity Group] *(2023)*
 
 ---
 
 ### Tech Toolbox 🛠️
 
-- **Languages:** SQL, Python, R
+- **Languages:** SQL, Python
 - **Data & Business Intelligence:** Power BI, Tableau, Google Looker Studio, Excel (Advanced)
 - **Frameworks & Analysis:** Market Research, Funnel Analysis, Customer Segmentation, Financial Modeling, ETL Process
-- **Tools:** Git, PostgreSQL, Google BigQuery, CRM Systems (HubSpot/Salesforce), JIRA
+- **Tools:** Git, PostgreSQL,MySQL, Google BigQuery, CRM Systems (HubSpot/Salesforce)
 - **Specialties:** Business Growth, Data-Driven Strategy, Sales Pipeline Optimization, Market Analytics
 
 ---
@@ -41,9 +41,10 @@ Combining experience in **Sales, Marketing, and Business Development**, I levera
 
 ### Certifications 📜
 
-- **Google Data Analytics Professional Certificate** – Coursera
-- **Business Analysis & Strategy** – [Penyelenggara Sertifikasi]
-- **Data Science / Business Intelligence Bootcamp** – [Nama Bootcamp/Lembaga]
+- **[Tempat Belajar.]**: Business Development Bootcamp
+- **[KarirNex]**: Data Analyst Bootcamp
+- **[Alexander Freberg]**: Data Analyst Bootcamp
+- **[Sinarmas Land]**: Basic Selling Skill, Advance Selling Skill, Be Proactive, Sales Negotiation, Sales Presentation, Social Media Marketing
 
 ---
 
