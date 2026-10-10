@@ -18,7 +18,7 @@ Combining experience in **Sales, Marketing, and Business Development**, I levera
 ### Professional Highlights 🌟
 
 - **Business Development Specialist** – [PT. Bina Auto Solusi] *(2026)*
-- **Sales Executive** – [Sinarmas Land / Freelance] *(2024)*
+- **Sales Executive** – [Sinarmas Land] *(2024)*
 - **Sales & Marketing Specialist** – [Suncity Group] *(2023)*
 
 ---
