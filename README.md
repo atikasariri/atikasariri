@@ -1,35 +1,32 @@
 # 👋 Hello, I'm Atika Sari!
 
-### 🚀 Business Development & Business/Data Analyst
+### Data-Driven Commercial Specialist | Account Executive & RevOps
 
 📍 [Indonesia]  
 📧 Email: [Nurthoatikasari@gmail.com]  
 🔗 LinkedIn: (https://www.linkedin.com/in/atika-sarii/)  
 👨‍💻 GitHub: [atikasariri](https://github.com/atikasariri)  
+🌐 Website Portfolio: [atikasari.github.io](https://atikasari.github.io)
 
 ---
 
 ### About Me 🌐
 
-Combining experience in **Sales, Marketing, and Business Development**, I leverage data analytics to drive strategic growth and bridge business goals with actionable data insights. I transform complex datasets into market opportunities, optimized sales strategies, and scalable business solutions.
+I bridge the gap between **commercial revenue strategy** and **data-driven operations**. With a background in Economics (Cum Laude) and hands-on experience managing an IDR 15B+ portfolio, I build sales frameworks, model transactional datasets, and optimize sales pipeline velocity.
 
 ---
 
-### Professional Highlights 🌟
-
-- **Business Development Specialist** – [PT. Bina Auto Solusi] *(2026)*
-- **Sales Executive** – [Sinarmas Land] *(2024)*
-- **Sales & Marketing Specialist** – [Suncity Group] *(2023)*
+- 💼 **Current Focus:** Tech Sales, Account Executive (AE), & Revenue Operations (RevOps)
+- 📊 **Tech & Ops Stack:** SQL, Python (Pandas), Tableau, Google Looker Studio, Advanced Excel, CRM Workflows
+- 🎯 **Impact Snapshot:** +25% Revenue Growth | 95% CRM Data Integrity | -20% Deal-Closing Duration
 
 ---
 
-### Tech Toolbox 🛠️
+### 📌 Featured Commercial & Analytics Repositories
 
-- **Languages:** SQL, Python
-- **Data & Business Intelligence:** Power BI, Tableau, Google Looker Studio, Excel (Advanced)
-- **Frameworks & Analysis:** Market Research, Funnel Analysis, Customer Segmentation, Financial Modeling, ETL Process
-- **Tools:** Git, PostgreSQL, MySQL, SQLite, Google BigQuery, CRM Systems (HubSpot/Salesforce)
-- **Specialties:** Business Growth, Data-Driven Strategy, Sales Pipeline Optimization, Market Analytics
+- 📊 [**Corporate Growth & Commercial Pipeline Analysis**](./) — Market analysis and data-backed monetization framework to shorten sales cycles.
+- 📈 [**Retail Sales Performance & Checkout Analytics**](./) — Analysis of 10,000+ transaction records using SQL & Looker Studio to resolve fulfillment bottlenecks and boost digital payment adoption (60%+).
+- ☕ [**Interactive Tableau Sales KPI Dashboard**](./) — Financial and operational data modeling to optimize revenue, product categories, and staffing schedules.
 
 ---
 
@@ -44,7 +41,7 @@ Combining experience in **Sales, Marketing, and Business Development**, I levera
 - **[Tempat Belajar.]**: Business Development Bootcamp
 - **[KarirNex]**: Data Analyst Bootcamp
 - **[Alexander Freberg]**: Data Analyst Bootcamp
-- **[Sinarmas Land]**: Basic Selling Skill, Advance Selling Skill, Be Proactive, Sales Negotiation, Sales Presentation, Social Media Marketing
+- **[Sinarmas Land]**: Sales & Negotiation
 
 ---
 
